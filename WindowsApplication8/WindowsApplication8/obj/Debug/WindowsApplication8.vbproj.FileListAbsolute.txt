@@ -1,0 +1,14 @@
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\Suppliers List\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\Suppliers List\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\Suppliers List\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\Suppliers List\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
