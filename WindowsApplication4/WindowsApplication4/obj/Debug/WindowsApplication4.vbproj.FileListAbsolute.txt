@@ -1,0 +1,11 @@
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
