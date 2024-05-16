@@ -1,0 +1,11 @@
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
