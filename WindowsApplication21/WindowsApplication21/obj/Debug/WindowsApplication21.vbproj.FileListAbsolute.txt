@@ -8,3 +8,13 @@ c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication21\Windo
 c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.exe
 c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.xml
 c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.pdb
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe.config
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.exe
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.xml
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.pdb
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.xml
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.Form1.resources
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.Resources.resources
+C:\Users\LESED\Documents\Visual Studio 2013\Projects\Projects\C---projects\WindowsApplication21\WindowsApplication21\obj\Debug\WindowsApplication21.vbproj.GenerateResource.Cache
