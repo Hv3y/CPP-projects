@@ -1,0 +1,10 @@
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form1.resources
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Resources.resources
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.exe
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.xml
+C:\Users\lesedi\Documents\Visual Studio 2013\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.pdb

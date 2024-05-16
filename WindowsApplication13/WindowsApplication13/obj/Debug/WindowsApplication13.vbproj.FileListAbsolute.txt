@@ -1,0 +1,4 @@
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe.config
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Form1.resources
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Resources.resources
+c:\users\lesedi\documents\visual studio 2013\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache
